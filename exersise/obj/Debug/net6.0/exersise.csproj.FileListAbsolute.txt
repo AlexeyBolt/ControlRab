@@ -1,0 +1,15 @@
+C:\Users\Allex\Desktop\ControlRab\exersise\bin\Debug\net6.0\exersise.exe
+C:\Users\Allex\Desktop\ControlRab\exersise\bin\Debug\net6.0\exersise.deps.json
+C:\Users\Allex\Desktop\ControlRab\exersise\bin\Debug\net6.0\exersise.runtimeconfig.json
+C:\Users\Allex\Desktop\ControlRab\exersise\bin\Debug\net6.0\exersise.dll
+C:\Users\Allex\Desktop\ControlRab\exersise\bin\Debug\net6.0\exersise.pdb
+C:\Users\Allex\Desktop\ControlRab\exersise\obj\Debug\net6.0\exersise.csproj.AssemblyReference.cache
+C:\Users\Allex\Desktop\ControlRab\exersise\obj\Debug\net6.0\exersise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allex\Desktop\ControlRab\exersise\obj\Debug\net6.0\exersise.AssemblyInfoInputs.cache
+C:\Users\Allex\Desktop\ControlRab\exersise\obj\Debug\net6.0\exersise.AssemblyInfo.cs
+C:\Users\Allex\Desktop\ControlRab\exersise\obj\Debug\net6.0\exersise.csproj.CoreCompileInputs.cache
+C:\Users\Allex\Desktop\ControlRab\exersise\obj\Debug\net6.0\exersise.dll
+C:\Users\Allex\Desktop\ControlRab\exersise\obj\Debug\net6.0\refint\exersise.dll
+C:\Users\Allex\Desktop\ControlRab\exersise\obj\Debug\net6.0\exersise.pdb
+C:\Users\Allex\Desktop\ControlRab\exersise\obj\Debug\net6.0\exersise.genruntimeconfig.cache
+C:\Users\Allex\Desktop\ControlRab\exersise\obj\Debug\net6.0\ref\exersise.dll
